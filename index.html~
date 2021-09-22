@@ -3,10 +3,10 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2021-09-21 Tue 21:01 -->
+<!-- 2021-09-21 Tue 20:59 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>D&amp;D Ref</title>
+<title>&lrm;</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="DESKTOP-O5A1D4E" />
 <style type="text/css">
@@ -229,19 +229,21 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">D&amp;D Ref</h1>
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org83460bc">1. Introduction</a></li>
-<li><a href="#org2f400c5">2. Maps</a></li>
-<li><a href="#orge557da7">3. Premade character sheets</a></li>
+<li><a href="#orgacc11b2">1. Introduction</a></li>
+<li><a href="#org89cceb2">2. Maps</a></li>
+<li><a href="#orgf2f8979">3. Premade character sheets</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org83460bc" class="outline-2">
-<h2 id="org83460bc"><span class="section-number-2">1</span> Introduction</h2>
+<p>
+#+TITLE D&amp;D Ref
+</p>
+<div id="outline-container-orgacc11b2" class="outline-2">
+<h2 id="orgacc11b2"><span class="section-number-2">1</span> Introduction</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 Welcome to the campaign! This is where I'll be leaving references for the players to use. 
@@ -261,8 +263,8 @@ prospectors who (like Gundren) have heard of treasures in them there hills.
 </div>
 </div>
 
-<div id="outline-container-org2f400c5" class="outline-2">
-<h2 id="org2f400c5"><span class="section-number-2">2</span> Maps</h2>
+<div id="outline-container-org89cceb2" class="outline-2">
+<h2 id="org89cceb2"><span class="section-number-2">2</span> Maps</h2>
 <div class="outline-text-2" id="text-2">
 <p>
 Maps of the campaign world. More will be added along the campaign, as needed.
@@ -274,8 +276,8 @@ Maps of the campaign world. More will be added along the campaign, as needed.
 </div>
 </div>
 
-<div id="outline-container-orge557da7" class="outline-2">
-<h2 id="orge557da7"><span class="section-number-2">3</span> Premade character sheets</h2>
+<div id="outline-container-orgf2f8979" class="outline-2">
+<h2 id="orgf2f8979"><span class="section-number-2">3</span> Premade character sheets</h2>
 <div class="outline-text-2" id="text-3">
 <p>
 These are for reference or for use verbatim by the players. Sheets include history about the world and NPCs, 
