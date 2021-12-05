@@ -14,6 +14,7 @@ prospectors who (like Gundren) have heard of treasures in them there hills.
 Maps of the campaign world. More will be added along the campaign, as needed.
 
 - [Sword Coast](./map-overview.jpg) (the area of the Forgotten Realms where the campaign takes place).
+- [Sword Coast - Detailed](./sword_coast_detailed.jpg)
 
 # Premade character sheets
 These are for reference or for use verbatim by the players. Sheets include history about the world and NPCs, 
